@@ -1,5 +1,5 @@
 CREATE DATABASE students_Anirudh;
-USE students;
+USE students_Anirudh;
 
 CREATE TABLE STUDENT (
     stdid INT(5),
