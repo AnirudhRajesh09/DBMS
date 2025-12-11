@@ -1,5 +1,5 @@
-create database Insurance;
-use Insurance;
+create database Insurance_Anirudh;
+use Insurance_Anirudh;
 
 create table person (
   driver_id varchar(10),
