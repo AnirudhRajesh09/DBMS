@@ -1,4 +1,4 @@
-CREATE DATABASE students;
+CREATE DATABASE students_Anirudh;
 USE students;
 
 CREATE TABLE STUDENT (
