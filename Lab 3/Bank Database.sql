@@ -1,5 +1,5 @@
-create database Bank;
-use Bank;
+create database Bank_Anirudh;
+use Bank_Anirudh;
 
 CREATE TABLE Branch (
     BranchName VARCHAR(50) PRIMARY KEY,
